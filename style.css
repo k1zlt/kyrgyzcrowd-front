@@ -1,0 +1,16 @@
+.navbar {
+    background: #fff;
+    padding: 0 20px;
+}
+#navbarSupportedContent ul {
+    flex-basis: 100%;
+    justify-content: center;
+}
+#navbarSupportedContent ul li {
+    margin: 10px;
+}
+.navbar .d-flex img {
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
